@@ -4,7 +4,7 @@ A Python-based project where a Jupyter notebook contains an AI model that detect
 - AI for Tic-Tac-Toe
 A Python project where a Jupyter notebook contains an AI that plays the game of Tic-Tac-Toe. The AI uses various algorithms such as Monte Carlo Search, Min-Max Algorithm, and Alpha-Beta Pruning to make strategic decisions.
 - Arduino Morse Encoder
-A C++ project using an Arduino board, breadboard, buttons, buzzers, and an LCD. The system allows users to input characters, and the corresponding Morse code is displayed on the LCD, distinguishing dots and dashes.
+A C++ project using an Arduino board, breadboard, buttons, buzzers, and an LCD. The system allows users to input dots and dashes, and the corresponding Morse code is displayed on the LCD, distinguishing characters.
 - Erasmus Project
 A PHP-based web application for Erasmus students. It includes features such as user registration, login, and the ability to view personalized information, submit requests, and upload files on the platform.
 - Fishing Tracker
